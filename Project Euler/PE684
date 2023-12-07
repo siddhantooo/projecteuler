@@ -1,0 +1,3 @@
+# project euler - problem 684
+
+def fibonacci(i):
